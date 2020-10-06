@@ -1,1 +1,3 @@
 # CN02_Project
+MEMBER :
+201601983 김정현
